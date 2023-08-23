@@ -1,0 +1,126 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1000,700;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+    font-style: initial;
+    font-weight: 700;
+    background-color:white
+}
+.container{
+    width: 85%;
+    font-family: Rubik;
+    
+}
+nav{
+    height: 80px;
+    padding-left: 10px;
+    
+
+}
+nav h1{
+    float:left;
+    line-height: 80px;
+    font-size: 32px;
+    font-size: inline;
+    color:  rgb(247, 138, 36);
+    margin-left: 50px;
+    margin-top: 4px;
+    text-decoration: none;
+    
+}
+nav ul{
+    float: right;
+    line-height: 80px;
+    color: #fff;
+    margin-left: 1px;
+    padding: 0px 10px;
+}
+
+
+.text{
+    text-align: left;
+    font-size: 60px;
+    font-size: inline;
+    width: 700px;
+    margin-bottom: 40px;
+    font-weight: 8000px;
+    align-items: start;
+    margin-top: 75px;
+    margin-left: 30px;
+    
+    
+}
+.content{
+    font-size: 20px;
+    width: 530px;
+    font-weight: 470;
+    font-size: inline;
+    margin-top: 5px;
+    margin-left: 30px;
+    word-spacing: 1px;
+    margin-bottom: 90px;
+    color: rgb(71, 71, 71);
+    
+}
+.num{
+    font-style: oblique;
+    font-stretch: expanded;
+    font-variant-position: super;
+    font-kerning: ;
+}
+.img{
+   width: 650px;
+   position: absolute;
+   margin-left: 390px;
+   margin-bottom: 70000px;
+   height: 600px;
+   margin-top: 30px;
+}
+.para{
+    margin-left: 25px;
+    box-sizing: border-box;
+    background-color: rgb(253, 141, 36);
+    color: azure;
+    padding: 20px;
+    border-radius: 0px;
+    border-width: 0px;
+    font-size: 14px;
+    border-radius: 5px;
+}
+.but{
+    margin-left: 25px;
+    box-sizing: border-box;
+    background-color: rgba(245, 240, 225, 0.774);
+    color: black;
+    padding: 20px;
+    border-radius: px;
+    border-width: 0px;
+    font-size: 16px;
+    border-style: ;
+    border-radius: 5px;
+}
+.but:hover;{
+    
+}
+   
+.active{
+    background-color: rgb(253, 141, 36);
+    color: whitesmoke;
+    margin-left: 0px;
+    border-radius: 6px;
+    padding: 8px;
+    margin-right: 0px;
+}
+.butto{
+    display: inline-block;
+    color: rgb(37, 35, 35);
+    list-style: none;
+    padding: 0px 5px;
+    margin-left: 20px;
+    padding-left: 10px;
+    
+}
